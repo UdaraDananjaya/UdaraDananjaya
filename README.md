@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udara</h1>
 <h3 align="center">A Passionate Front-End & Back-End Developer From Sri Lanka ʟᴋ.</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="udara-dananjaya" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="udara-dananjaya" /></p>
 
 - 🌱 I’m currently learning **CodeIgniter ,Node.Js ,django ,React.** 
 
