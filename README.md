@@ -13,12 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://dev.to/udara_dananjaya" target="blank"><img align="center" src="/icons/devto.svg" alt="udara_dananjaya" height="30" width="40" /></a>
-    <a href="https://twitter.com/D_a_n_a_n_jaya" target="blank"><img align="center" src="/icons/twitter.svg" alt="D_a_n_a_n_jaya" height="30" width="40" /></a>
+    <a href="https://dev.to/udara_dananjaya" target="blank"><img align="center" src="/icons/devto.svg" alt="udara_dananjaya" height="30" width="40" />
     <a href="https://linkedin.com/in/udara-dananjaya-aththanayaka" target="blank"><img align="center" src="/icons/linked-in.svg" alt="udara-dananjaya-aththanayaka" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/udara-dananjaya" target="blank"><img align="center" src="/icons/stack-overflow.svg" alt="udara-dananjaya" height="30" width="40" /></a>
-    <a href="https://fb.com/B.Udara.Dananjaya.Aththanayaka" target="blank"><img align="center" src="/icons/facebook.svg" alt="B.Udara.Dananjaya.Aththanayaka" height="30" width="40" /></a>
-    <a href="https://instagram.com/d_a_n_a_n_jaya" target="blank"><img align="center" src="/icons/instagram.svg" alt="d_a_n_a_n_jaya" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/19066932" target="blank"><img align="center" src="/icons/stack-overflow.svg" alt="udara-dananjaya" height="30" width="40" /></a>
+    <a href="https://fb.com/Udara.D.Aththanayaka" target="blank"><img align="center" src="/icons/facebook.svg" alt="B.Udara.Dananjaya.Aththanayaka" height="30" width="40" /></a>
+    <a href="https://instagram.com/udara_d_aththanayaka" target="blank"><img align="center" src="/icons/instagram.svg" alt="d_a_n_a_n_jaya" height="30" width="40" /></a>
     <a href="https://medium.com/@udara-dananjaya" target="blank"><img align="center" src="/icons/medium.svg" alt="@udara-dananjaya" height="30" width="40" /></a>
 </p>
 
