@@ -36,6 +36,7 @@
 
 <p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-Dananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="udara-dananjaya" />
-    
+</p>
+    <p align="center">&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-Dananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="udara-dananjaya" />
 </p>
