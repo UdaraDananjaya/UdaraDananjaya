@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Udara</h1>
 <h3 align="center">A Passionate Front-End & Back-End Developer From Sri Lanka ʟᴋ.</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="udara-dananjaya" />
-</p> - 🌱 I’m currently learning **CodeIgniter ,Node.Js ,django ,React.** - 👨‍💻 All of my projects are available at [udara-dananjaya.github.io](https://udara-dananjaya.github.io) - 💬 Ask me about **PHP ,C++ ,C# ,VB.net ,Python ,MySQL.** - 📫 How to reach me **Budaththanayaka@gmail.com** <h3 align="left">Connect with me:</h3>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="udara-dananjaya" /></p>
+
+- 🌱 I’m currently learning **CodeIgniter ,Node.Js ,django ,React.** 
+
+- 👨‍💻 All of my projects are available at [udara-dananjaya.github.io](https://udara-dananjaya.github.io) 
+
+- 💬 Ask me about **PHP ,C++ ,C# ,VB.net ,Python ,MySQL.** 
+
+- 📫 How to reach me **Budaththanayaka@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/udara_dananjaya" target="blank">
     <img align="center" src="/icons/devto.svg" alt="udara_dananjaya" height="30" width="40" />
