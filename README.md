@@ -61,7 +61,7 @@
     <img src="/icons/python.svg" alt="python" width="40" height="40" />
   </a>
 </p>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-Dananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="udara-dananjaya" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=UdaraDananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="udaradananjaya" />
 </p>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-Dananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="udara-dananjaya" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraDananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="udaradananjaya" />
 </p>
