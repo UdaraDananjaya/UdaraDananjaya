@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udara</h1>
 <h3 align="center">A Passionate Front-End & Back-End Developer From Sri Lanka ʟᴋ.</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="udara-dananjaya" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=udaradananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="UdaraDananjaya" /></p>
 
 - 🌱 I’m currently learning **CodeIgniter ,Node.Js ,django ,React.** 
 
@@ -61,7 +61,7 @@
     <img src="/icons/python.svg" alt="python" width="40" height="40" />
   </a>
 </p>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=UdaraDananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="udaradananjaya" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=UdaraDananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="UdaraDananjaya" />
 </p>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraDananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="udaradananjaya" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraDananjaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="UdaraDananjaya" />
 </p>
